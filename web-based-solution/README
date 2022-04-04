@@ -1,0 +1,10 @@
+Before trying running this project:
+- Ensure that python and flask are installed
+- Be sure that BOTH packages locations are in the PATH 
+
+To run the project in Windows:
+1. Run '$env:FLASK_APP = "main"'
+2. Run 'flask run'
+3. Put the file you want to zoom in into the 'static' folder
+4. Go to http://127.0.0.1:5000/<name_of_the_file_in_static_folder>
+5. Enjoy the applcation ! :) 
